@@ -1,6 +1,6 @@
 'use strict';
 
-a = 4;
+a = 42;
 
 console.log(a);
 
